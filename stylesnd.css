@@ -1,0 +1,95 @@
+body{
+    width: 80%;
+    background-color:#7F7F7F ;
+    
+    margin: auto;
+}
+
+.nav{
+    margin: auto;
+    display: flex;
+    background-color: black;
+    color: white;
+}
+#icon{
+    font-size: 3.5rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    margin-bottom: 00.5rem;
+}
+h1 {
+    font-weight: lighter;
+    margin-left: 0.6rem;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+}
+#templates {
+    margin-top: 1.5rem;
+    margin-left: 13rem;
+    font-size: 0.7rem;
+    border: none;
+    height: 1.5rem;
+    background-color: black;
+    color: #ccc;
+    font-family: 'Patrick Hand', cursive;
+    cursor: pointer;
+    
+}
+#moretemp {
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    font-size:0.7rem;
+    border: none;
+    height: 1.5rem;
+    background-color: black;
+    color: #ccc;
+    font-family: 'Patrick Hand', cursive;
+    cursor: pointer;
+}
+.butt{
+    width: 10rem;
+    margin-top: 1.2rem;
+    margin-left: 1.5rem;
+    height: 2rem;
+    border: none;
+    border-radius: 1.2rem;
+    font-weight: bold;
+    color: rgb(209, 209, 209);
+    background-color: rgb(45, 171, 255);
+    font-size: 0.8rem;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+.icon {
+    margin-top: 1.5rem;
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+    margin-left: 1.3rem;
+    color:rgb(45, 171, 255)  ;
+    cursor: pointer;
+}
+.event{
+    width: 85%;
+    height: 10rem;
+    margin-left: 5.5rem;
+    margin-top: 1rem;
+}
+.all{
+    text-align: end;
+    padding-top: 6.5rem;
+    font-size: 2.8rem;
+    color: white;
+    padding-right: 1rem;
+}
+#secc{
+    margin-top: 5rem;
+    font-family: 'Patrick Hand', cursive;
+  
+}
+.surrr{
+    height: 17rem;
+}
+.dddd{
+    height: 18rem;
+}
